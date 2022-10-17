@@ -1,5 +1,3 @@
-<script type="text/javascript" async src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
-</script>
 # Translate the Beauty in Songs:Jointly Learning to Align Melody and Translate Lyrics
 
 Under Review
@@ -20,9 +18,9 @@ Song translation requires both translation of lyrics and alignment of music note
   margin-right: auto;
   width: 100%;" />
 
-### En $\rightarrow$ Zh
+### En -> Zh
 
-0. from ``小幸运''
+0. from "小幸运"
     <table style='width: 100%;'>
         <thead>
         <tr>
@@ -44,14 +42,15 @@ Song translation requires both translation of lyrics and alignment of music note
         </tr>
         <tr>
             <th scope="row">scores</th>
-            <td><img align="center" src="resources/scores/en_zh/gt/0.png" style="  display: block; margin-left: auto;
+            <td>[gagast pdf](/js/web/viewer.html?file=%2Fresources/scores/en_zh/gt/0.pdf)</td>
+            <!-- <td><img align="center" src="resources/scores/en_zh/gt/0.png" style="  display: block; margin-left: auto;
 margin-right: auto; width: 100%;" /></td>
             <td><img align="center" src="resources/scores/en_zh/gagast/0.png" style="  display: block; margin-left: auto;
 margin-right: auto; width: 100%;" /></td>
             <td><img align="center" src="resources/scores/en_zh/baseline/0.png" style="  display: block; margin-left: auto;
 margin-right: auto; width: 100%;" /></td>
             <td><img align="center" src="resources/scores/en_zh/ltag/0.png" style="  display: block; margin-left: auto;
-margin-right: auto; width: 100%;" /></td>
+margin-right: auto; width: 100%;" /></td> -->
         </tr>
         <tr>
             <th scope="row">wav</th>
