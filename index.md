@@ -40,7 +40,7 @@ Song translation requires both translation of lyrics and alignment of music note
         </tr>
         <tr>
             <th scope="row">scores</th>
-            <td><img align="center" src="resources/scores/en_zh/gagast/0.svg" style="  display: block; margin-left: auto;
+            <td><img align="center" src="resources/scores/en_zh/gt/0.svg" style="  display: block; margin-left: auto;
 margin-right: auto; width: 100%;" /></td>
             <!-- <td><img align="center" src="resources/scores/en_zh/gt/0.png" style="  display: block; margin-left: auto;
 margin-right: auto; width: 100%;" /></td>
