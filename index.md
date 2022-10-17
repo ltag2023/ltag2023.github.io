@@ -1,3 +1,5 @@
+<script type="text/javascript" async src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
 # Translate the Beauty in Songs:Jointly Learning to Align Melody and Translate Lyrics
 
 Under Review
@@ -20,7 +22,7 @@ Song translation requires both translation of lyrics and alignment of music note
 
 ### En $\rightarrow$ Zh
 
-0. xxxx
+0. from ``小幸运''
     <table style='width: 100%;'>
         <thead>
         <tr>
@@ -33,6 +35,14 @@ Song translation requires both translation of lyrics and alignment of music note
         </thead>
         <tbody>
         <tr>
+            <th scope="row">lyrics text</th>
+            <td>en:xxxxx<br>
+                zh:xxxxx</td>
+            <td>xxxx</td>
+            <td>xxxx</td>
+            <td>xxxx</td>
+        </tr>
+        <tr>
             <th scope="row">scores</th>
             <td><img align="center" src="resources/scores/en_zh/gt/0.png" style="  display: block; margin-left: auto;
 margin-right: auto; width: 100%;" /></td>
@@ -43,12 +53,12 @@ margin-right: auto; width: 100%;" /></td>
             <td><img align="center" src="resources/scores/en_zh/ltag/0.png" style="  display: block; margin-left: auto;
 margin-right: auto; width: 100%;" /></td>
         </tr>
-        <!-- <tr>
+        <tr>
             <th scope="row">wav</th>
             <td><audio controls="" ><source src="resources/audio/en_zh/gt/0.wav" type="audio/wav"></audio></td>
             <td><audio controls="" ><source src="resources/audio/en_zh/gagast/0.wav" type="audio/wav"></audio></td>
             <td><audio controls="" ><source src="resources/audio/en_zh/baseline/0.wav" type="audio/wav"></audio></td>
             <td><audio controls="" ><source src="resources/audio/en_zh/ltag/0.wav" type="audio/wav"></audio></td>
-        </tr> -->
+        </tr>
         </tbody>
     </table>
