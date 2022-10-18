@@ -33,18 +33,17 @@ Song translation requires both translation of lyrics and alignment of music note
         <tbody>
         <tr>
             <th scope="row">lyrics text</th>
-            <td>en:is love I can be sure of<br>
-                zh:是否能给我安全感</td>
+            <td>en:is love I can be sure of<br>zh:是否能给我安全感</td>
             <td>这就是爱，我可以肯定的爱吗</td>
             <td>是爱我能确定</td>
             <td>是爱我可以肯定</td>
         </tr>
         <tr>
             <th scope="row">scores</th>
-            <td><img align="center" src="resources/scores/en_zh/gt/0.svg" style="  display: block; margin-left: auto; margin-right: auto; width: 100%;" /></td>
-            <td><img align="center" src="resources/scores/en_zh/gagast/0.svg" style="display: block; margin-left: auto; margin-right: auto; width: 100%;" /></td>
+            <td><img align="center" src="resources/scores/en_zh/gt/0.svg" style="  display: block; margin-left: auto; margin-right: auto; width: 200%;" /></td>
+            <td><img align="center" src="resources/scores/en_zh/gagast/0.svg" style="display: block; margin-left: auto; margin-right: auto; width: 200%;" /></td>
             <td><img align="center" src="resources/scores/en_zh/baseline/0.svg" style="  display: block; margin-left: auto; margin-right: auto; width: 100%;" /></td>
-            <td><img align="center" src="resources/scores/en_zh/ltag/0.svg" style="  display: block; margin-left: auto; margin-right: auto; width: 100%;" /></td>
+            <td><img align="center" src="resources/scores/en_zh/ltag/0.svg" style="  display: block; margin-left: auto; margin-right: auto; width: 200%;" /></td>
         </tr>
         <tr>
             <th scope="row">wav</th>

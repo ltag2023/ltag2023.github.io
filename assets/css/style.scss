@@ -4,7 +4,7 @@
 @import 'jekyll-theme-cayman';
 
 .main-content{
-  max-width: 80rem;
+  max-width: 90rem;
 }
 
 table, td {
@@ -26,6 +26,7 @@ table tr {
     background-color: transparent;
     font-weight: normal;
     height: 40px;
+    width: 300px;
 }
 
 audio {
