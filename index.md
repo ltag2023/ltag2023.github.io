@@ -19,6 +19,7 @@ Song translation requires both translation of lyrics and alignment of music note
 ### En -> Zh
 
 0. "Is love I can be sure of" from *"Will You Still Love Me Tomorrow"*
+
     <table style='width: 100%;'>
         <thead>
         <tr>
@@ -32,24 +33,18 @@ Song translation requires both translation of lyrics and alignment of music note
         <tbody>
         <tr>
             <th scope="row">lyrics text</th>
-            <td>en:xxxxx<br>
-                zh:xxxxx</td>
-            <td>xxxx</td>
-            <td>xxxx</td>
-            <td>xxxx</td>
+            <td>en:is love I can be sure of<br>
+                zh:是否能给我安全感</td>
+            <td>这就是爱，我可以肯定的爱吗</td>
+            <td>是爱我能确定</td>
+            <td>是爱我可以肯定</td>
         </tr>
         <tr>
             <th scope="row">scores</th>
-            <td><img align="center" src="resources/scores/en_zh/gt/0.svg" style="  display: block; margin-left: auto;
-margin-right: auto; width: 100%;" /></td>
-            <!-- <td><img align="center" src="resources/scores/en_zh/gt/0.png" style="  display: block; margin-left: auto;
-margin-right: auto; width: 100%;" /></td>
-            <td><img align="center" src="resources/scores/en_zh/gagast/0.png" style="  display: block; margin-left: auto;
-margin-right: auto; width: 100%;" /></td>
-            <td><img align="center" src="resources/scores/en_zh/baseline/0.png" style="  display: block; margin-left: auto;
-margin-right: auto; width: 100%;" /></td>
-            <td><img align="center" src="resources/scores/en_zh/ltag/0.png" style="  display: block; margin-left: auto;
-margin-right: auto; width: 100%;" /></td> -->
+            <td><img align="center" src="resources/scores/en_zh/gt/0.svg" style="  display: block; margin-left: auto; margin-right: auto; width: 100%;" /></td>
+            <td><img align="center" src="resources/scores/en_zh/gagast/0.svg" style="display: block; margin-left: auto; margin-right: auto; width: 100%;" /></td>
+            <td><img align="center" src="resources/scores/en_zh/baseline/0.svg" style="  display: block; margin-left: auto; margin-right: auto; width: 100%;" /></td>
+            <td><img align="center" src="resources/scores/en_zh/ltag/0.svg" style="  display: block; margin-left: auto; margin-right: auto; width: 100%;" /></td>
         </tr>
         <tr>
             <th scope="row">wav</th>
