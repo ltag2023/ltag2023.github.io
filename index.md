@@ -33,10 +33,10 @@ Song translation requires both translation of lyrics and alignment of music note
     <tbody>
     <tr style="height: 50%;">
         <th scope="row">lyrics text</th>
-        <td>en:is love I can be sure of<br>zh:是否能给我安全感</td>
-        <td>这就是爱，我可以肯定的爱吗</td>
-        <td>是爱我能确定</td>
-        <td>是爱我可以肯定</td>
+        <td>en:is love I can be sure of<br>zh:是否能给我安全感 shì fǒ néng gěi wǒ ān quán gǎn</td>
+        <td>这就是爱，我可以肯定的爱吗 zhè jiù shì ài，wǒ kě yǐ kěn dìng de ài ma</td>
+        <td>是爱我能确定 shì ài wǒ néng kěn dìng</td>
+        <td>是爱我可以肯定 shì ài wǒ kě yǐ kěn dìng</td>
     </tr>
     <tr style="height: 400%;">
         <th scope="row">scores</th>
@@ -70,10 +70,10 @@ Song translation requires both translation of lyrics and alignment of music note
     <tbody>
     <tr style="height: 50%;">
         <th scope="row">lyrics text</th>
-        <td>en:I need you here I need you here to wipe away my tears<br>zh:我需要你 我需要你帮我抹去泪水</td>
-        <td>我需要你 我需要你在这里来擦去眼泪</td>
-        <td>我需要你 我需要你擦干眼泪</td>
-        <td>我需要你 我需要你擦干泪水</td>
+        <td>en:I need you here I need you here to wipe away my tears<br>zh:我需要你 我需要你帮我抹去泪水 wǒ xū yào nǐ wǒ xū yào nǐ bāng wǒ mǒ qù lèi shuǐ</td>
+        <td>我需要你 我需要你在这里来擦去眼泪 wǒ xū yào nǐ wǒ xū yào nǐ zài zhè lǐ cā qù yǎn lèi</td>
+        <td>我需要你 我需要你擦干眼泪 wǒ xū yào nǐ wǒ xū yào nǐ cā gān yǎn lèi</td>
+        <td>我需要你 我需要你擦干眼泪 wǒ xū yào nǐ wǒ xū yào nǐ cā gān lèi shǔi</td>
     </tr>
     <tr style="height: 400%;">
         <th scope="row">scores</th>
@@ -107,10 +107,10 @@ Song translation requires both translation of lyrics and alignment of music note
     <tbody>
     <tr style="height: 50%;">
         <th scope="row">lyrics text</th>
-        <td>en:Aint nothing but a heartache Tell Me Why Aint nothing but a mistake<br>zh:为什么让我心痛 告诉我 为什么你不行动</td>
-        <td>不过是心痛而已 告诉我 不过是个错而已</td>
-        <td>不过是心痛 告诉我 不过是个错</td>
-        <td>没什么只是心痛 告诉我 没什么只是个错</td>
+        <td>en:Aint nothing but a heartache Tell Me Why Aint nothing but a mistake<br>zh:为什么让我心痛 告诉我 为什么你不行动 wèi shén mè ràng wǒ xīn tòng gào sù wǒ wèi shén mè nǐ bù xíng dòng</td>
+        <td>不过是心痛而已 告诉我 只不过是个错误 bú guò shì xīn tòng ér yǐ gào sù wǒ zhǐ bú guò shì gè cuò wu</td>
+        <td>不过是心痛 告诉我 不过是个错 bú guò shì xīn tòng gào sù wǒ bú guò shì gè cuò</td>
+        <td>没什么只是心痛 告诉我 没什么只是个错 méi shén mè zhǐ shì xīn tòng gào sù wǒ méi shén mè zhǐ shì gè cuò</td>
     </tr>
     <tr style="height: 400%;">
         <th scope="row">scores</th>
