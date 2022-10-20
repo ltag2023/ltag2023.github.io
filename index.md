@@ -203,7 +203,7 @@ Song translation requires both translation of lyrics and alignment of music note
     </tbody>
 </table>
 
-5. "Is love I can be sure of" from *"Will You Still Love Me Tomorrow"*
+5. "So full of the superficial Some people want it all But I don't want nothing at all" from *"If I Ain't Got You"*
 
 <table style='width: 200%;'>
     <thead>
@@ -218,10 +218,10 @@ Song translation requires both translation of lyrics and alignment of music note
     <tbody>
     <tr style="height: 50%;">
         <th scope="row">lyrics text</th>
-        <td>en:is love I can be sure of<br>zh:是否能给我安全感</td>
-        <td>这就是爱，我可以肯定的爱吗</td>
-        <td>是爱我能确定</td>
-        <td>是爱我可以肯定</td>
+        <td>en:So full of the superficial Some people want it all But I don't want nothing at all<br>zh:生活实在肤浅至极 有人想拥有一切 而我什么都不缺</td>
+        <td>如此充满了肤浅的 有些人想要一切 但我什么也不想要</td>
+        <td>如此的肤浅 有人都想要 却一无所有</td>
+        <td>如此的肤浅 有些人都想要 却什么都不要</td>
     </tr>
     <tr style="height: 400%;">
         <th scope="row">scores</th>
@@ -240,7 +240,7 @@ Song translation requires both translation of lyrics and alignment of music note
     </tbody>
 </table>
 
-6. "Is love I can be sure of" from *"Will You Still Love Me Tomorrow"*
+6. "When the rain is blowing in your face And the whole world is on your case" from *"Make you feel my love"*
 
 <table style='width: 200%;'>
     <thead>
@@ -255,10 +255,10 @@ Song translation requires both translation of lyrics and alignment of music note
     <tbody>
     <tr style="height: 50%;">
         <th scope="row">lyrics text</th>
-        <td>en:is love I can be sure of<br>zh:是否能给我安全感</td>
-        <td>这就是爱，我可以肯定的爱吗</td>
-        <td>是爱我能确定</td>
-        <td>是爱我可以肯定</td>
+        <td>en:When the rain is blowing in your face And the whole world is on your case<br>zh:当雨吹打在你的脸上 全世界压在你行李箱</td>
+        <td>当雨水在的脸上吹来时 整个世界都在你的案子上</td>
+        <td>当雨打在你脸上 全世界都在你左右</td>
+        <td>当雨打在你的脸上 整个世界都在你的左右</td>
     </tr>
     <tr style="height: 400%;">
         <th scope="row">scores</th>
@@ -305,6 +305,96 @@ Song translation requires both translation of lyrics and alignment of music note
         <td><img align="center" src="resources/scores/zh_en/gagast/0.svg" style="display: block; margin-left: auto; margin-right: auto; width: 800%; height: 800%;" /></td>
         <td><img align="center" src="resources/scores/zh_en/baseline/0.svg" style="  display: block; margin-left: auto; margin-right: auto; width: 800%; height: 800%;" /></td>
         <td><img align="center" src="resources/scores/zh_en/ltag/0.svg" style="  display: block; margin-left: auto; margin-right: auto; width: 800%; height: 800%;" /></td>
+    </tr>
+    </tbody>
+</table>
+
+1. "也许当时忙着微笑和哭泣 忙着追逐天空中的流星" from *"小幸运"*
+
+<table style='width: 200%;'>
+    <thead>
+    <tr>
+        <th></th>
+        <th>Source and Reference</th>
+        <th>GagaST</th>
+        <th>LTAG-cls</th>
+        <th>LTAG</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr style="height: 50%;">
+        <th scope="row">lyrics text</th>
+        <td>zh:也许当时忙着微笑和哭泣 忙着追逐天空中的流星<br>en:Perhaps I've been busy smiling and shedding tears Or can't help chasing in the sky pretty meteors</td>
+        <td>Perhaps I was busy smiling and crying at the time of the meeting I am busy chasing after the shooting stars that are in the sky</td>
+        <td>Maybe I was busy smiling and crying busy chasing the shooting in the sky</td>
+        <td>Maybe I was busy with a smile and a cry busy chasing the stars in the sky</td>
+    </tr>
+    <tr style="height: 400%;">
+        <th scope="row">scores</th>
+        <td><img align="center" src="resources/scores/zh_en/gt/1.svg" style="  display: block; margin-left: auto; margin-right: auto; width: 800%; height: 800%;" /></td>
+        <td><img align="center" src="resources/scores/zh_en/gagast/1.svg" style="display: block; margin-left: auto; margin-right: auto; width: 800%; height: 800%;" /></td>
+        <td><img align="center" src="resources/scores/zh_en/baseline/1.svg" style="  display: block; margin-left: auto; margin-right: auto; width: 800%; height: 800%;" /></td>
+        <td><img align="center" src="resources/scores/zh_en/ltag/1.svg" style="  display: block; margin-left: auto; margin-right: auto; width: 800%; height: 800%;" /></td>
+    </tr>
+    </tbody>
+</table>
+
+2. "你张开了双翼 遇见你的注定" from *"小幸运"*
+
+<table style='width: 200%;'>
+    <thead>
+    <tr>
+        <th></th>
+        <th>Source and Reference</th>
+        <th>GagaST</th>
+        <th>LTAG-cls</th>
+        <th>LTAG</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr style="height: 50%;">
+        <th scope="row">lyrics text</th>
+        <td>zh:你张开了双翼 遇见你的注定<br>en:You turn over old memory Come across your destiny</td>
+        <td>You open up your wings for me It ’s the fate to meet you when I meet you</td>
+        <td>you spread your wings to meet you is meant to</td>
+        <td>You have spread your wings To meet you is destined</td>
+    </tr>
+    <tr style="height: 400%;">
+        <th scope="row">scores</th>
+        <td><img align="center" src="resources/scores/zh_en/gt/2.svg" style="  display: block; margin-left: auto; margin-right: auto; width: 800%; height: 800%;" /></td>
+        <td><img align="center" src="resources/scores/zh_en/gagast/2.svg" style="display: block; margin-left: auto; margin-right: auto; width: 800%; height: 800%;" /></td>
+        <td><img align="center" src="resources/scores/zh_en/baseline/2.svg" style="  display: block; margin-left: auto; margin-right: auto; width: 800%; height: 800%;" /></td>
+        <td><img align="center" src="resources/scores/zh_en/ltag/2.svg" style="  display: block; margin-left: auto; margin-right: auto; width: 800%; height: 800%;" /></td>
+    </tr>
+    </tbody>
+</table>
+
+3. "好不好有亏欠我们都别再追究" from *"说散就散"*
+
+<table style='width: 200%;'>
+    <thead>
+    <tr>
+        <th></th>
+        <th>Source and Reference</th>
+        <th>GagaST</th>
+        <th>LTAG-cls</th>
+        <th>LTAG</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr style="height: 50%;">
+        <th scope="row">lyrics text</th>
+        <td>zh:好不好有亏欠我们都别再追究<br>en:Good or bad no matter what we just let go</td>
+        <td>Is it good to have a debt to pay ? We don't have to pursue it.</td>
+        <td>What good is there a debt we don't have to follow</td>
+        <td>We owe each other good or bad don't hold it up</td>
+    </tr>
+    <tr style="height: 400%;">
+        <th scope="row">scores</th>
+        <td><img align="center" src="resources/scores/zh_en/gt/3.svg" style="  display: block; margin-left: auto; margin-right: auto; width: 800%; height: 800%;" /></td>
+        <td><img align="center" src="resources/scores/zh_en/gagast/3.svg" style="display: block; margin-left: auto; margin-right: auto; width: 800%; height: 800%;" /></td>
+        <td><img align="center" src="resources/scores/zh_en/baseline/3.svg" style="  display: block; margin-left: auto; margin-right: auto; width: 800%; height: 800%;" /></td>
+        <td><img align="center" src="resources/scores/zh_en/ltag/3.svg" style="  display: block; margin-left: auto; margin-right: auto; width: 800%; height: 800%;" /></td>
     </tr>
     </tbody>
 </table>
