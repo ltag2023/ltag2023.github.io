@@ -256,7 +256,7 @@ Song translation requires both translation of lyrics and alignment of music note
     <tr style="height: 50%;">
         <th scope="row">lyrics text</th>
         <td>en:When the rain is blowing in your face And the whole world is on your case<br>zh:当雨吹打在你的脸上 全世界压在你行李箱</td>
-        <td>当雨水在的脸上吹来时 整个世界都在你的案子上</td>
+        <td>当雨水在你的脸上吹来时 整个世界都在你的案子上</td>
         <td>当雨打在你脸上 全世界都在你左右</td>
         <td>当雨打在你的脸上 整个世界都在你的左右</td>
     </tr>
