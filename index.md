@@ -256,9 +256,9 @@ Song translation requires both translation of lyrics and alignment of music note
     <tr style="height: 50%;">
         <th scope="row">lyrics text</th>
         <td>en:When the rain is blowing in your face And the whole world is on your case<br>zh:当雨吹打在你的脸上 全世界压在你行李箱</td>
-        <td>当雨水在你的脸上吹来时 整个世界都在你的案子上</td>
-        <td>当雨打在你脸上 全世界都在你左右</td>
-        <td>当雨打在你的脸上 整个世界都在你的左右</td>
+        <td>when   the rain   in   your   face   is blowing   the whole   world   is   on   your   case<br>当 雨水 在 你的 脸上 吹来时 整个 世界 都 在 你的 案子上<br>dāng yǔ shuǐ zài nǐ de liǎn shàng chuī lái shí zhěng gè shì jiè dōu zài nǐ de àn zi shàng</td>
+        <td>when   the rain   is blowing   in   your   face   the whole   world   is on   your   case<br>当 雨 打在 你 脸上 全 世界 都在 你 左右<br>dāng yǔ dǎ zài nǐ liǎn shàng quán shì jiè dōu zài nǐ zuǒ yòu</td>
+        <td>when   the rain   in   your   face   is blowing   the whole   world   is   on   your   case<br>当 雨 打在 你的 脸上 整个 世界 都在 你的 左右<br>dāng yǔ dǎ zài nǐ de liǎn shàng quán shì jiè dōu zài nǐ de zuǒ yòu</td>
     </tr>
     <tr style="height: 400%;">
         <th scope="row">scores</th>
@@ -294,7 +294,7 @@ Song translation requires both translation of lyrics and alignment of music note
     <tbody>
     <tr style="height: 50%;">
         <th scope="row">lyrics text</th>
-        <td>zh:她会有多幸运<br>en:How lucky she will be</td>
+        <td>zh:她会有多幸运<br>tā huì yǒu duō xìng yùn<br>en:How lucky she will be</td>
         <td>How lucky she would be to be</td>
         <td>How lucky would she be</td>
         <td>How lucky would she be</td>
@@ -324,7 +324,7 @@ Song translation requires both translation of lyrics and alignment of music note
     <tbody>
     <tr style="height: 50%;">
         <th scope="row">lyrics text</th>
-        <td>zh:也许当时忙着微笑和哭泣 忙着追逐天空中的流星<br>en:Perhaps I've been busy smiling and shedding tears Or can't help chasing in the sky pretty meteors</td>
+        <td>zh:也许当时忙着微笑和哭泣 忙着追逐天空中的流星<br>yě xǔ dāng shí máng zhe wēi xiào hé kū qì máng zhe zhuī zhú tiān kōng zhōng de liú xīng<br>en:Perhaps I've been busy smiling and shedding tears Or can't help chasing in the sky pretty meteors</td>
         <td>Perhaps I was busy smiling and crying at the time of the meeting I am busy chasing after the shooting stars that are in the sky</td>
         <td>Maybe I was busy smiling and crying busy chasing the shooting in the sky</td>
         <td>Maybe I was busy with a smile and a cry busy chasing the stars in the sky</td>
@@ -354,7 +354,7 @@ Song translation requires both translation of lyrics and alignment of music note
     <tbody>
     <tr style="height: 50%;">
         <th scope="row">lyrics text</th>
-        <td>zh:你张开了双翼 遇见你的注定<br>en:You turn over old memory Come across your destiny</td>
+        <td>zh:你张开了双翼 遇见你的注定<br>nǐ zhāng kāi le shuāng yì yù jiàn nǐ de zhù dìng<br>en:You turn over old memory Come across your destiny</td>
         <td>You open up your wings for me It ’s the fate to meet you when I meet you</td>
         <td>you spread your wings to meet you is meant to</td>
         <td>You have spread your wings To meet you is destined</td>
