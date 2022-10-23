@@ -33,8 +33,8 @@ Song translation requires both translation of lyrics and alignment of music note
     <tbody>
     <tr style="height: 50%;">
         <th scope="row">lyrics text</th>
-        <td>en:is love I can be sure of<br>zh:是否能给我安全感<br>shì fǒ néng gěi wǒ ān quán gǎn</td>
-        <td>this  is   love   I   can   be sure of   love<br>这 就是 爱，我 可以 肯定的 爱 吗<br>zhè jiù shì ài，wǒ kě yǐ kěn dìng de ài ma</td>
+        <td>en:is love I can be sure of<br>zh:是否能给我安全感<br>shì fǒu néng gěi wǒ ān quán gǎn</td>
+        <td>this is &nbsp;love I&nbsp; can&nbsp; be sure of   love<br>这 &nbsp;就是 爱，&nbsp;我 可以 肯定的 &nbsp;&nbsp;&nbsp;&nbsp;爱吗<br>zhè jiù shì ài，wǒ kě yǐ kěn dìng de ài ma</td>
         <td>is   love   I   can   be sure of<br>是 爱 我 能 确定<br>shì ài wǒ néng kěn dìng</td>
         <td>is   love   I   can   be sure of<br>是 爱 我 可以 肯定<br>shì ài wǒ kě yǐ kěn dìng</td>
     </tr>
