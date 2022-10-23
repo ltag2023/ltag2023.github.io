@@ -384,7 +384,7 @@ Song translation requires both translation of lyrics and alignment of music note
     <tbody>
     <tr style="height: 50%;">
         <th scope="row">lyrics text</th>
-        <td>zh:好不好有亏欠我们都别再追究<br>en:Good or bad no matter what we just let go</td>
+        <td>zh:好不好有亏欠我们都别再追究<br>hǎo bù hǎo yǒu kuī qiàn wǒ mén dōu bié zài zhuī jīu<br>en:Good or bad no matter what we just let go</td>
         <td>Is it good to have a debt to pay ? We don't have to pursue it.</td>
         <td>What good is there a debt we don't have to follow</td>
         <td>We owe each other good or bad don't hold it up</td>
