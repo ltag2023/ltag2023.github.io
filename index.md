@@ -33,10 +33,10 @@ Song translation requires both translation of lyrics and alignment of music note
     <tbody>
     <tr style="height: 50%;">
         <th scope="row">lyrics text</th>
-        <td>en:is love I can be sure of<br>zh:是否能给我安全感 shì fǒ néng gěi wǒ ān quán gǎn</td>
-        <td>这就是爱，我可以肯定的爱吗 zhè jiù shì ài，wǒ kě yǐ kěn dìng de ài ma</td>
-        <td>是爱我能确定 shì ài wǒ néng kěn dìng</td>
-        <td>是爱我可以肯定 shì ài wǒ kě yǐ kěn dìng</td>
+        <td>en:is love I can be sure of<br>zh:是否能给我安全感<br>shì fǒ néng gěi wǒ ān quán gǎn</td>
+        <td>this  is   love   I   can   be sure of   love<br>这 就是 爱，我 可以 肯定的 爱 吗<br>zhè jiù shì ài，wǒ kě yǐ kěn dìng de ài ma</td>
+        <td>is   love   I   can   be sure of<br>是 爱 我 能 确定<br>shì ài wǒ néng kěn dìng</td>
+        <td>is   love   I   can   be sure of<br>是 爱 我 可以 肯定<br>shì ài wǒ kě yǐ kěn dìng</td>
     </tr>
     <tr style="height: 400%;">
         <th scope="row">scores</th>
@@ -71,9 +71,9 @@ Song translation requires both translation of lyrics and alignment of music note
     <tr style="height: 50%;">
         <th scope="row">lyrics text</th>
         <td>en:I need you here I need you here to wipe away my tears<br>zh:我需要你 我需要你帮我抹去泪水<br>wǒ xū yào nǐ wǒ xū yào nǐ bāng wǒ mǒ qù lèi shuǐ</td>
-        <td>I need you I need you here to wipe tears<br>我 需要 你 我 需要 你 在这里 来 擦去 眼泪<br>wǒ xū yào nǐ wǒ xū yào nǐ zài zhè lǐ cā qù yǎn lèi</td>
-        <td>I need you I need you wipe tears<br>我 需要 你 我 需要 你 擦干 眼泪<br>wǒ xū yào nǐ wǒ xū yào nǐ cā gān yǎn lèi</td>
-        <td>I need you I need you wipe tears<br>我 需要 你 我 需要 你 擦干 眼泪<br>wǒ xū yào nǐ wǒ xū yào nǐ cā gān lèi shǔi</td>
+        <td>I   need   you   I   need   you   here   to   wipe   tears<br>我 需要 你 我 需要 你 在这里 来 擦去 眼泪<br>wǒ xū yào nǐ wǒ xū yào nǐ zài zhè lǐ cā qù yǎn lèi</td>
+        <td>I   need   you   I   need   you   wipe   tears<br>我 需要 你 我 需要 你 擦干 眼泪<br>wǒ xū yào nǐ wǒ xū yào nǐ cā gān yǎn lèi</td>
+        <td>I   need   you   I   need   you   wipe   tears<br>我 需要 你 我 需要 你 擦干 眼泪<br>wǒ xū yào nǐ wǒ xū yào nǐ cā gān lèi shǔi</td>
     </tr>
     <tr style="height: 400%;">
         <th scope="row">scores</th>
@@ -108,9 +108,9 @@ Song translation requires both translation of lyrics and alignment of music note
     <tr style="height: 50%;">
         <th scope="row">lyrics text</th>
         <td>en:Aint nothing but a heartache Tell Me Why Aint nothing but a mistake<br>zh:为什么让我心痛 告诉我 为什么你不行动<br>wèi shén mè ràng wǒ xīn tòng gào sù wǒ wèi shén mè nǐ bù xíng dòng</td>
-        <td>不过是 心痛 而已 告诉 我 只不过是 个 错误<br>bú guò shì xīn tòng ér yǐ gào sù wǒ zhǐ bú guò shì gè cuò wu</td>
-        <td>不过是心痛 告诉我 不过是个错<br>bú guò shì xīn tòng gào sù wǒ bú guò shì gè cuò</td>
-        <td>没什么 只是 心痛 告诉 我 没什么 只是 个错<br>méi shén mè zhǐ shì xīn tòng gào sù wǒ méi shén mè zhǐ shì gè cuò</td>
+        <td>aint nothing but    a heartache   tell   me   aint nothing but   a   mistake<br>不过是 心痛 而已 告诉 我 只不过是 个 错误<br>bú guò shì xīn tòng ér yǐ gào sù wǒ zhǐ bú guò shì gè cuò wu</td>
+        <td>aint nothing    a heartache   tell   me   aint nothing but   a   mistake<br>不过是 心痛 告诉 我 不过是 个 错<br>bú guò shì xīn tòng gào sù wǒ bú guò shì gè cuò</td>
+        <td>aint nothing    but   a heartache   tell   me   aint nothing   but   a   mistake<br>没什么 只是 心痛 告诉 我 没什么 只是 个 错<br>méi shén mè zhǐ shì xīn tòng gào sù wǒ méi shén mè zhǐ shì gè cuò</td>
     </tr>
     <tr style="height: 400%;">
         <th scope="row">scores</th>
@@ -144,10 +144,10 @@ Song translation requires both translation of lyrics and alignment of music note
     <tbody>
     <tr style="height: 50%;">
         <th scope="row">lyrics text</th>
-        <td>en:And I'm thinking about how people fall in love in mysterious ways Maybe just the touch of a hand<br>zh:我一直在想人们如何神秘地坠入爱河 或许只是轻碰了手</td>
-        <td>而且我在想着人们是如何以神秘的方式坠入爱河 也许仅仅是一只手</td>
-        <td>我在想人们是如何神秘地坠落 也许只是一触即发</td>
-        <td>我在想人们如何神秘地坠入爱河 也许只是一触即发</td>
+        <td>en:And I'm thinking about how people fall in love in mysterious ways Maybe just the touch of a hand<br>zh:我一直在想人们如何神秘地坠入爱河 或许只是轻碰了手<br>wǒ yì zhí zài xiǎng rén men rú hé shén mì de zhuì rù ài hé huò xǔ zhǐ shì qīng pèng le shǒu</td>
+        <td>And   I'm   thinking about   people   how   in mysterious ways  fall in   love   Maybe   just   a hand<br>而且 我 在想着 人们 是如何 以神秘的方式 坠入 爱河 也许 仅仅是 一只手<br>ér qǐe wǒ zài xiǎng zhe rén men shì rú hé yǐ shén mì de fāng shì zhuì rù ài hé yě xǔ jǐn jǐn shì yì zhī shǒu</td>
+        <td>I'm   thinking about   people   how   in mysterious ways  fall in   Maybe   just   the touch of a hand<br>我 在想 人们 是 如何 神秘地 坠落 也许 只是 一触即发<br>wǒ zài xiǎng rén men shì rú hé shén mì de zhuì luò yě xǔ zhǐ shì yì chù jí fā</td>
+        <td>I'm   thinking about   people   how   in mysterious ways  fall in   love   Maybe   just   the touch of a hand<br>我 在想 人们 如何 神秘地 坠入 爱河 也许 只是 一触即发<br>wǒ zài xiǎng rén men rú hé shén mì de zhuì rù ài hé yě xǔ zhǐ shì yì chù jí fā</td>
     </tr>
     <tr style="height: 400%;">
         <th scope="row">scores</th>
@@ -181,10 +181,10 @@ Song translation requires both translation of lyrics and alignment of music note
     <tbody>
     <tr style="height: 50%;">
         <th scope="row">lyrics text</th>
-        <td>en:Kiss me under the light of a thousand stars<br>zh:在星空下吻我吧</td>
-        <td>在成千上万颗星星的光下吻我</td>
-        <td>千星之光下吻我</td>
-        <td>在千星之光下吻我</td>
+        <td>en:Kiss me under the light of a thousand stars<br>zh:在 星空下 吻 我 吧<br></td>
+        <td>under   a thousand   stars   the light of   kiss   me<br>在 成千上万颗 星星的 光下 吻 我<br>zài chéngß qiān shàng wàn kē xīng xing de guāng xià wěn wǒ</td>
+        <td>under the light of a thousand stars   kiss   me<br>千星 之光下 吻 我<br>qiān xīng zhī guāng xià wěn wǒ</td>
+        <td>under the light of a thousand stars   kiss   me<br>在千星之光下 吻 我<br>zài qiān xīng zhī guāng xià wěn wǒ</td>
     </tr>
     <tr style="height: 400%;">
         <th scope="row">scores</th>
@@ -218,10 +218,10 @@ Song translation requires both translation of lyrics and alignment of music note
     <tbody>
     <tr style="height: 50%;">
         <th scope="row">lyrics text</th>
-        <td>en:So full of the superficial Some people want it all But I don't want nothing at all<br>zh:生活实在肤浅至极 有人想拥有一切 而我什么都不缺</td>
-        <td>如此充满了肤浅的 有些人想要一切 但我什么也不想要</td>
-        <td>如此的肤浅 有人都想要 却一无所有</td>
-        <td>如此的肤浅 有些人都想要 却什么都不要</td>
+        <td>en:So full of the superficial Some people want it all But I don't want nothing at all<br>zh:生活实在肤浅至极 有人想拥有一切 而我什么都不缺<br>shēng huó shí zài fū qiǎn zhì jí yǒu rén xiǎng yōng yǒu yí qiè ér wǒ shén me dōu bù quē</td>
+        <td>So   full of   superficial   Some   people   want it   all   But   I   nothing at all   want<br>如此 充满了 肤浅的 有些 人 想要 一切 但 我 什么也不 想要<br>rú cǐ chōng mǎn le fū qiǎn de yǒu xiē rén xiǎng yào yí qiè dān wǒ shén me yě bù xiǎng yào</td>
+        <td>So full of   superficial   people   all   want it   But   nothing at all<br>如此的 肤浅 有人 都 想要 却 一无所有<br>rú cǐ de fū qiǎn yǒu rén dōu xiǎng yào què yī wú suǒ yǒu</td>
+        <td>So full of   superficial   Some   people   all   want it   But   nothing at all   want<br>如此的 肤浅 有些 人 都 想要 却 什么都不 要<br>rú cǐ de fū qiǎn yǒu xiē rén dōu xiǎng yào què shén me dōu bú yào</td>
     </tr>
     <tr style="height: 400%;">
         <th scope="row">scores</th>
