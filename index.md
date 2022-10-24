@@ -34,9 +34,9 @@ Song translation requires both translation of lyrics and alignment of music note
     <tr style="height: 50%;">
         <th scope="row">lyrics text</th>
         <td>en:is love I can be sure of<br>zh:是否能给我安全感<br>shì fǒu néng gěi wǒ ān quán gǎn</td>
-        <td>this is &nbsp;love I&nbsp; can&nbsp; be sure of   love<br>这 &nbsp;就是 爱，&nbsp;我 可以 肯定的 &nbsp;&nbsp;&nbsp;&nbsp;爱吗<br>zhè jiù shì ài，wǒ kě yǐ kěn dìng de ài ma</td>
-        <td>is   love   I   can   be sure of<br>是 爱 我 能 确定<br>shì ài wǒ néng kěn dìng</td>
-        <td>is   love   I   can   be sure of<br>是 爱 我 可以 肯定<br>shì ài wǒ kě yǐ kěn dìng</td>
+        <td>this is &nbsp;&nbsp;love I&nbsp; can&nbsp; be sure of love<br>这 &nbsp;&nbsp;就是 爱， 我 可以 肯定的 &nbsp;&nbsp;&nbsp;&nbsp;爱吗<br>zhè jiù shì ài，wǒ kě yǐ kěn dìng de ài ma</td>
+        <td>is love I&nbsp; can be sure of<br>是 爱&nbsp;&nbsp; 我 能&nbsp; 确定<br>shì ài wǒ néng kěn dìng</td>
+        <td>is love   I&nbsp; can&nbsp; be sure of<br>是 爱&nbsp;&nbsp; 我 可以 肯定<br>shì ài wǒ kě yǐ kěn dìng</td>
     </tr>
     <tr style="height: 400%;">
         <th scope="row">scores</th>
@@ -71,9 +71,9 @@ Song translation requires both translation of lyrics and alignment of music note
     <tr style="height: 50%;">
         <th scope="row">lyrics text</th>
         <td>en:I need you here I need you here to wipe away my tears<br>zh:我需要你 我需要你帮我抹去泪水<br>wǒ xū yào nǐ wǒ xū yào nǐ bāng wǒ mǒ qù lèi shuǐ</td>
-        <td>I   need   you   I   need   you   here   to   wipe   tears<br>我 需要 你 我 需要 你 在这里 来 擦去 眼泪<br>wǒ xū yào nǐ wǒ xū yào nǐ zài zhè lǐ cā qù yǎn lèi</td>
-        <td>I   need   you   I   need   you   wipe   tears<br>我 需要 你 我 需要 你 擦干 眼泪<br>wǒ xū yào nǐ wǒ xū yào nǐ cā gān yǎn lèi</td>
-        <td>I   need   you   I   need   you   wipe   tears<br>我 需要 你 我 需要 你 擦干 眼泪<br>wǒ xū yào nǐ wǒ xū yào nǐ cā gān lèi shǔi</td>
+        <td>I&nbsp;   need   you   I&nbsp;   need   you   here&nbsp;&nbsp;   to   wipe   tears<br>我 需要 你&nbsp; 我 需要 你&nbsp; 在这里 来 擦去 眼泪<br>wǒ xū yào nǐ wǒ xū yào nǐ zài zhè lǐ cā qù yǎn lèi</td>
+        <td>I&nbsp;   need   you   I&nbsp;   need   you   wipe   tears<br>我 需要 你&nbsp; 我 需要 你&nbsp; 擦干 眼泪<br>wǒ xū yào nǐ wǒ xū yào nǐ cā gān yǎn lèi</td>
+        <td>I&nbsp;   need   you   I&nbsp;   need   you   wipe   tears<br>我 需要 你&nbsp; 我 需要 你&nbsp; 擦干 眼泪<br>wǒ xū yào nǐ wǒ xū yào nǐ cā gān lèi shǔi</td>
     </tr>
     <tr style="height: 400%;">
         <th scope="row">scores</th>
@@ -108,7 +108,7 @@ Song translation requires both translation of lyrics and alignment of music note
     <tr style="height: 50%;">
         <th scope="row">lyrics text</th>
         <td>en:Aint nothing but a heartache Tell Me Why Aint nothing but a mistake<br>zh:为什么让我心痛 告诉我 为什么你不行动<br>wèi shén mè ràng wǒ xīn tòng gào sù wǒ wèi shén mè nǐ bù xíng dòng</td>
-        <td>aint nothing but    a heartache   tell   me   aint nothing but   a   mistake<br>不过是 心痛 而已 告诉 我 只不过是 个 错误<br>bú guò shì xīn tòng ér yǐ gào sù wǒ zhǐ bú guò shì gè cuò wu</td>
+        <td>aint nothing    a heartache   but&nbsp;  tell   me   aint nothing  a&nbsp;   mistake<br>不过是&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 心痛&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 而已 告诉 我 只不过是&nbsp;&nbsp;&nbsp;&nbsp; 个 错误<br>bú guò shì xīn tòng ér yǐ gào sù wǒ zhǐ bú guò shì gè cuò wu</td>
         <td>aint nothing    a heartache   tell   me   aint nothing but   a   mistake<br>不过是 心痛 告诉 我 不过是 个 错<br>bú guò shì xīn tòng gào sù wǒ bú guò shì gè cuò</td>
         <td>aint nothing    but   a heartache   tell   me   aint nothing   but   a   mistake<br>没什么 只是 心痛 告诉 我 没什么 只是 个 错<br>méi shén mè zhǐ shì xīn tòng gào sù wǒ méi shén mè zhǐ shì gè cuò</td>
     </tr>
