@@ -34,9 +34,9 @@ Song translation requires both translation of lyrics and alignment of music note
     <tr style="height: 50%;">
         <th scope="row">lyrics text</th>
         <td>en:is love I can be sure of<br>zh:是否能给我安全感<br>shì fǒu néng gěi wǒ ān quán gǎn</td>
-        <td>this is &nbsp;&nbsp;love I&nbsp; can&nbsp; be sure of love<br>这 &nbsp;&nbsp;就是 爱， 我 可以 肯定的 &nbsp;&nbsp;&nbsp;&nbsp;爱吗<br>zhè jiù shì ài，wǒ kě yǐ kěn dìng de ài ma</td>
-        <td>is love I&nbsp; can be sure of<br>是 爱&nbsp;&nbsp; 我 能&nbsp; 确定<br>shì ài wǒ néng kěn dìng</td>
-        <td>is love   I&nbsp; can&nbsp; be sure of<br>是 爱&nbsp;&nbsp; 我 可以 肯定<br>shì ài wǒ kě yǐ kěn dìng</td>
+        <td>this is &nbsp;&nbsp;love &nbsp;&nbsp;I&nbsp; can&nbsp; be sure of love<br>这 &nbsp;&nbsp;就是 爱， 我 可以 肯定的&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;爱吗<br>zhè jiù shì ài，wǒ kě yǐ kěn dìng de ài ma</td>
+        <td>is love I&nbsp; can be sure of<br>是&nbsp; 爱&nbsp;&nbsp; 我 能&nbsp; 确定<br>shì ài wǒ néng kěn dìng</td>
+        <td>is love   I&nbsp; can&nbsp; be sure of<br>是&nbsp; 爱&nbsp;&nbsp; 我 可以 肯定<br>shì ài wǒ kě yǐ kěn dìng</td>
     </tr>
     <tr style="height: 400%;">
         <th scope="row">scores</th>
@@ -256,8 +256,8 @@ Song translation requires both translation of lyrics and alignment of music note
     <tr style="height: 50%;">
         <th scope="row">lyrics text</th>
         <td>en:When the rain is blowing in your face And the whole world is on your case<br>zh:当雨吹打在你的脸上 全世界压在你行李箱</td>
-        <td>when   the rain   in   your   face   is blowing   the whole   world  is   on   your   case<br>当&nbsp;&nbsp; 雨水&nbsp;&nbsp;&nbsp;&nbsp; 在 你的 脸上 吹来时&nbsp;&nbsp;&nbsp;&nbsp; 整个&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 世界&nbsp; 都 在 你的 案子上<br>dāng yǔ shuǐ zài nǐ de liǎn shàng chuī lái shí zhěng gè shì jiè dōu zài nǐ de àn zi shàng</td>
-        <td>when   the rain   is blowing   your   face   the whole   world   is on   your   case<br>当&nbsp;&nbsp; 雨&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 打在&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 你&nbsp;&nbsp; 脸上 全&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 世界&nbsp; 都在&nbsp; 你&nbsp;&nbsp; 左右<br>dāng yǔ dǎ zài nǐ liǎn shàng quán shì jiè dōu zài nǐ zuǒ yòu</td>
+        <td>when   the rain   in   your   face   is blowing   the whole   world  is   on   your   case<br>当&nbsp;&nbsp;&nbsp;&nbsp; 雨水&nbsp;&nbsp;&nbsp;&nbsp; 在 你的 脸上 吹来时&nbsp;&nbsp;&nbsp;&nbsp; 整个&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 世界&nbsp; 都 在 你的 案子上<br>dāng yǔ shuǐ zài nǐ de liǎn shàng chuī lái shí zhěng gè shì jiè dōu zài nǐ de àn zi shàng</td>
+        <td>when   the rain   is blowing   your   face   the whole   world   is on   your   case<br>当&nbsp;&nbsp;&nbsp;&nbsp; 雨&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 打在&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 你&nbsp;&nbsp; 脸上 全&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 世界&nbsp; 都在&nbsp; 你&nbsp;&nbsp; 左右<br>dāng yǔ dǎ zài nǐ liǎn shàng quán shì jiè dōu zài nǐ zuǒ yòu</td>
         <td>when   the rain   is blowing  your   face      the whole   world   is&nbsp;&nbsp;   on your case<br>当&nbsp;&nbsp; 雨&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 打在&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 你的 脸上 整个&nbsp;&nbsp;&nbsp;&nbsp; 世界&nbsp; 都在 你的 左右<br>dāng yǔ dǎ zài nǐ de liǎn shàng quán shì jiè dōu zài nǐ de zuǒ yòu</td>
     </tr>
     <tr style="height: 400%;">
