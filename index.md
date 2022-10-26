@@ -34,9 +34,9 @@ Song translation requires both translation of lyrics and alignment of music note
     <tr style="height: 50%;">
         <th scope="row">lyrics text</th>
         <td>en:is love I can be sure of<br>zh:是否能给我安全感<br>shì fǒu néng gěi wǒ ān quán gǎn</td>
-        <td>this is &nbsp;&nbsp;love &nbsp;&nbsp;I&nbsp; can&nbsp; be sure of love<br>这 &nbsp;&nbsp;就是 爱， 我 可以 肯定的&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;爱吗<br>zhè jiù shì ài，wǒ kě yǐ kěn dìng de ài ma</td>
-        <td>is love I&nbsp; can be sure of<br>是&nbsp; 爱&nbsp;&nbsp; 我 能&nbsp; 确定<br>shì ài wǒ néng kěn dìng</td>
-        <td>is love   I&nbsp; can&nbsp; be sure of<br>是&nbsp; 爱&nbsp;&nbsp; 我 可以 肯定<br>shì ài wǒ kě yǐ kěn dìng</td>
+        <td>this is &nbsp;&nbsp;&nbsp;love &nbsp;&nbsp;&nbsp;I&nbsp;&nbsp; can&nbsp;&nbsp; be sure of love<br>这 &nbsp;&nbsp;就是 爱， 我 可以 肯定的&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;爱吗<br>zhè jiù shì ài，wǒ kě yǐ kěn dìng de ài ma</td>
+        <td>is love&nbsp; I&nbsp;&nbsp; can be sure of<br>是&nbsp;&nbsp; 爱&nbsp;&nbsp;&nbsp; 我 能&nbsp; 确定<br>shì ài wǒ néng kěn dìng</td>
+        <td>is love&nbsp;   I&nbsp;&nbsp; can&nbsp;&nbsp; be sure of<br>是&nbsp; 爱&nbsp;&nbsp; 我&nbsp; 可以&nbsp; 肯定<br>shì ài wǒ kě yǐ kěn dìng</td>
     </tr>
     <tr style="height: 400%;">
         <th scope="row">scores</th>
@@ -71,9 +71,9 @@ Song translation requires both translation of lyrics and alignment of music note
     <tr style="height: 50%;">
         <th scope="row">lyrics text</th>
         <td>en:I need you here I need you here to wipe away my tears<br>zh:我需要你 我需要你帮我抹去泪水<br>wǒ xū yào nǐ wǒ xū yào nǐ bāng wǒ mǒ qù lèi shuǐ</td>
-        <td>I&nbsp;   need   you   I&nbsp;   need   you   here&nbsp;&nbsp;   to   wipe   tears<br>我 需要 你&nbsp; 我 需要 你&nbsp; 在这里 来 擦去 眼泪<br>wǒ xū yào nǐ wǒ xū yào nǐ zài zhè lǐ cā qù yǎn lèi</td>
-        <td>I&nbsp;   need   you   I&nbsp;   need   you   wipe   tears<br>我 需要 你&nbsp; 我 需要 你&nbsp; 擦干 眼泪<br>wǒ xū yào nǐ wǒ xū yào nǐ cā gān yǎn lèi</td>
-        <td>I&nbsp;   need   you   I&nbsp;   need   you   wipe   tears<br>我 需要 你&nbsp; 我 需要 你&nbsp; 擦干 眼泪<br>wǒ xū yào nǐ wǒ xū yào nǐ cā gān lèi shǔi</td>
+        <td>I &nbsp;&nbsp;need&nbsp;   you&nbsp;   I&nbsp;&nbsp;   need&nbsp;   you&nbsp;   here&nbsp;&nbsp;&nbsp;   to   wipe   tears<br>我 需要 你&nbsp;&nbsp; 我 需要 你&nbsp;&nbsp; 在这里 来 擦去 眼泪<br>wǒ xū yào nǐ wǒ xū yào nǐ zài zhè lǐ cā qù yǎn lèi</td>
+        <td>I&nbsp;   need&nbsp;   you&nbsp;   I&nbsp;&nbsp;   need&nbsp;   you&nbsp;   wipe&nbsp;   tears<br>我 需要 你&nbsp;&nbsp; 我 需要 你&nbsp;&nbsp; 擦干 眼泪<br>wǒ xū yào nǐ wǒ xū yào nǐ cā gān yǎn lèi</td>
+        <td>I&nbsp;&nbsp;   need&nbsp;   you&nbsp;   I&nbsp;&nbsp;   need&nbsp;   you&nbsp;   wipe&nbsp;   tears<br>我 需要 你&nbsp;&nbsp; 我 需要 你&nbsp;&nbsp; 擦干 眼泪<br>wǒ xū yào nǐ wǒ xū yào nǐ cā gān lèi shǔi</td>
     </tr>
     <tr style="height: 400%;">
         <th scope="row">scores</th>
@@ -108,9 +108,9 @@ Song translation requires both translation of lyrics and alignment of music note
     <tr style="height: 50%;">
         <th scope="row">lyrics text</th>
         <td>en:Aint nothing but a heartache Tell Me Why Aint nothing but a mistake<br>zh:为什么让我心痛 告诉我 为什么你不行动<br>wèi shén mè ràng wǒ xīn tòng gào sù wǒ wèi shén mè nǐ bù xíng dòng</td>
-        <td>aint nothing    a heartache   but&nbsp;  tell   me   aint nothing  a&nbsp;   mistake<br>不过是&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 心痛&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 而已 告诉 我 只不过是&nbsp;&nbsp;&nbsp;&nbsp; 个 错误<br>bú guò shì xīn tòng ér yǐ gào sù wǒ zhǐ bú guò shì gè cuò wu</td>
-        <td>aint nothing    a heartache   tell   me   aint nothing but   a&nbsp;   mistake<br>不过是&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 心痛&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 告诉 我 不过是&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 个 错<br>bú guò shì xīn tòng gào sù wǒ bú guò shì gè cuò</td>
-        <td>aint nothing    but&nbsp;   a heartache   tell   me   aint nothing&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   but&nbsp;   a&nbsp;   mistake<br>没什么&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 只是 心痛&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 告诉 我 没什么 只是 个 错<br>méi shén mè zhǐ shì xīn tòng gào sù wǒ méi shén mè zhǐ shì gè cuò</td>
+        <td>aint nothing&nbsp;    a heartache&nbsp;   but&nbsp;&nbsp;  tell&nbsp;   me&nbsp;   aint nothing&nbsp;  a&nbsp;&nbsp;   mistake<br>不过是&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 心痛&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 而已 告诉 我 只不过是&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 个 错误<br>bú guò shì xīn tòng ér yǐ gào sù wǒ zhǐ bú guò shì gè cuò wu</td>
+        <td>aint nothing&nbsp;    a heartache&nbsp;   tell&nbsp;   me&nbsp;   aint nothing but&nbsp;   a&nbsp;&nbsp;   mistake<br>不过是&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 心痛&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 告诉 我 不过是&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 个 错<br>bú guò shì xīn tòng gào sù wǒ bú guò shì gè cuò</td>
+        <td>aint nothing&nbsp;    but&nbsp;&nbsp;   a heartache&nbsp;   tell&nbsp;   me&nbsp;   aint nothing&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   but&nbsp;&nbsp;   a&nbsp;&nbsp;   mistake<br>没什么&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 只是 心痛&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 告诉 我 没什么 只是 个 错<br>méi shén mè zhǐ shì xīn tòng gào sù wǒ méi shén mè zhǐ shì gè cuò</td>
     </tr>
     <tr style="height: 400%;">
         <th scope="row">scores</th>
@@ -145,9 +145,9 @@ Song translation requires both translation of lyrics and alignment of music note
     <tr style="height: 50%;">
         <th scope="row">lyrics text</th>
         <td>en:And I'm thinking about how people fall in love in mysterious ways Maybe just the touch of a hand<br>zh:我一直在想人们如何神秘地坠入爱河 或许只是轻碰了手<br>wǒ yì zhí zài xiǎng rén men rú hé shén mì de zhuì rù ài hé huò xǔ zhǐ shì qīng pèng le shǒu</td>
-        <td>And&nbsp;   I'm   thinking about   people   how&nbsp;&nbsp;&nbsp;   in mysterious ways  fall in   love   Maybe   just&nbsp;&nbsp;   a hand<br>而且 我&nbsp; 在想着&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 人们&nbsp;&nbsp; 是如何 以神秘的方式&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 坠入&nbsp;&nbsp;&nbsp; 爱河 也许&nbsp; 仅仅是 一只手<br>ér qǐe wǒ zài xiǎng zhe rén men shì rú hé yǐ shén mì de fāng shì zhuì rù ài hé yě xǔ jǐn jǐn shì yì zhī shǒu</td>
-        <td>I'm   thinking about   people   how&nbsp;&nbsp;&nbsp;   in mysterious ways  fall in&nbsp;&nbsp;   Maybe   just   the touch of a hand<br>我&nbsp; 在想&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 人们&nbsp;&nbsp; 是如何 神秘地&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 坠落 也许&nbsp; 只是 一触即发<br>wǒ zài xiǎng rén men shì rú hé shén mì de zhuì luò yě xǔ zhǐ shì yì chù jí fā</td>
-        <td>I'm   thinking about   people   how&nbsp;   in mysterious ways  fall in   love   Maybe   just   the touch of a hand<br>我&nbsp; 在想&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 人们&nbsp;&nbsp; 如何 神秘地&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 坠入&nbsp;&nbsp;&nbsp; 爱河 也许&nbsp; 只是 一触即发<br>wǒ zài xiǎng rén men rú hé shén mì de zhuì rù ài hé yě xǔ zhǐ shì yì chù jí fā</td>
+        <td>And&nbsp;&nbsp;   I'm &nbsp;  thinking about&nbsp;   people&nbsp;   how&nbsp;&nbsp;&nbsp;&nbsp;   in mysterious ways&nbsp;  fall in&nbsp;   love&nbsp;   Maybe&nbsp;   just&nbsp;&nbsp;&nbsp;   a hand<br>而且 我&nbsp;&nbsp; 在想着&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 人们&nbsp;&nbsp;&nbsp; 是如何 以神秘的方式&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 坠入&nbsp;&nbsp;&nbsp;&nbsp; 爱河 也许&nbsp;&nbsp; 仅仅是 一只手<br>ér qǐe wǒ zài xiǎng zhe rén men shì rú hé yǐ shén mì de fāng shì zhuì rù ài hé yě xǔ jǐn jǐn shì yì zhī shǒu</td>
+        <td>I'm&nbsp;   thinking about&nbsp;   people&nbsp;   how&nbsp;&nbsp;&nbsp;&nbsp;   in mysterious ways&nbsp;  fall in&nbsp;&nbsp;&nbsp;   Maybe&nbsp;   just&nbsp;   the touch of a hand<br>我&nbsp;&nbsp; 在想&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 人们&nbsp;&nbsp;&nbsp; 是如何 神秘地&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 坠落 也许&nbsp;&nbsp; 只是 一触即发<br>wǒ zài xiǎng rén men shì rú hé shén mì de zhuì luò yě xǔ zhǐ shì yì chù jí fā</td>
+        <td>I'm&nbsp;   thinking about&nbsp;   people&nbsp;   how&nbsp;&nbsp;   in mysterious ways&nbsp;  fall in&nbsp;   love&nbsp;   Maybe&nbsp;   just&nbsp;   the touch of a hand<br>我&nbsp;&nbsp; 在想&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 人们&nbsp;&nbsp;&nbsp; 如何 神秘地&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 坠入&nbsp;&nbsp;&nbsp;&nbsp; 爱河 也许&nbsp;&nbsp; 只是 一触即发<br>wǒ zài xiǎng rén men rú hé shén mì de zhuì rù ài hé yě xǔ zhǐ shì yì chù jí fā</td>
     </tr>
     <tr style="height: 400%;">
         <th scope="row">scores</th>
@@ -182,9 +182,9 @@ Song translation requires both translation of lyrics and alignment of music note
     <tr style="height: 50%;">
         <th scope="row">lyrics text</th>
         <td>en:Kiss me under the light of a thousand stars<br>zh:在 星空下 吻 我 吧<br></td>
-        <td>under   a thousand   stars&nbsp;   the light of   kiss   me<br>在&nbsp;&nbsp;&nbsp; 成千上万颗 星星的 光下&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 吻&nbsp;&nbsp; 我<br>zài chéngß qiān shàng wàn kē xīng xing de guāng xià wěn wǒ</td>
-        <td>a thousand stars under the light of  kiss   me<br>千星&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 之光下&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 吻&nbsp;&nbsp; 我<br>qiān xīng zhī guāng xià wěn wǒ</td>
-        <td>under a thousand stars  the light of  kiss   me<br>在&nbsp;&nbsp;&nbsp; 千星&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 之光下&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 吻&nbsp;&nbsp; 我<br>zài qiān xīng zhī guāng xià wěn wǒ</td>
+        <td>under&nbsp;   a thousand&nbsp;   stars&nbsp;&nbsp;   the light of&nbsp;   kiss&nbsp;   me<br>在&nbsp;&nbsp;&nbsp;&nbsp; 成千上万颗 星星的 光下&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 吻&nbsp;&nbsp;&nbsp; 我<br>zài chéngß qiān shàng wàn kē xīng xing de guāng xià wěn wǒ</td>
+        <td>a thousand stars&nbsp; under the light of&nbsp;  kiss&nbsp;   me<br>千星&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 之光下&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 吻&nbsp;&nbsp;&nbsp; 我<br>qiān xīng zhī guāng xià wěn wǒ</td>
+        <td>under&nbsp; a thousand stars&nbsp;  the light of&nbsp;  kiss&nbsp;   me<br>在&nbsp;&nbsp;&nbsp;&nbsp; 千星&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 之光下&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 吻&nbsp;&nbsp;&nbsp; 我<br>zài qiān xīng zhī guāng xià wěn wǒ</td>
     </tr>
     <tr style="height: 400%;">
         <th scope="row">scores</th>
@@ -219,9 +219,9 @@ Song translation requires both translation of lyrics and alignment of music note
     <tr style="height: 50%;">
         <th scope="row">lyrics text</th>
         <td>en:So full of the superficial Some people want it all But I don't want nothing at all<br>zh:生活实在肤浅至极 有人想拥有一切 而我什么都不缺<br>shēng huó shí zài fū qiǎn zhì jí yǒu rén xiǎng yōng yǒu yí qiè ér wǒ shén me dōu bù quē</td>
-        <td>So&nbsp;&nbsp;   full of   superficial   Some   people   want it   all&nbsp;   But   I&nbsp;   nothing at all   want<br>如此 充满了&nbsp; 肤浅的&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 有些 人&nbsp;&nbsp;&nbsp;&nbsp; 想要&nbsp;&nbsp;&nbsp; 一切 但&nbsp; 我 什么也不&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 想要<br>rú cǐ chōng mǎn le fū qiǎn de yǒu xiē rén xiǎng yào yí qiè dān wǒ shén me yě bù xiǎng yào</td>
-        <td>So full of   superficial   people   all   want it   But   nothing at all<br>如此的&nbsp;&nbsp;&nbsp;&nbsp; 肤浅&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 有人&nbsp;&nbsp; 都&nbsp; 想要&nbsp;&nbsp;&nbsp; 却&nbsp; 一无所有<br>rú cǐ de fū qiǎn yǒu rén dōu xiǎng yào què yī wú suǒ yǒu</td>
-        <td>So full of   superficial   Some   people   all   want it   But   nothing at all   want<br>如此的&nbsp;&nbsp;&nbsp;&nbsp; 肤浅&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 有些 人&nbsp;&nbsp;&nbsp;&nbsp; 都&nbsp; 想要&nbsp;&nbsp;&nbsp; 却&nbsp; 什么都不&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 要<br>rú cǐ de fū qiǎn yǒu xiē rén dōu xiǎng yào què shén me dōu bú yào</td>
+        <td>So&nbsp;&nbsp;&nbsp;   full of&nbsp;   superficial&nbsp;   Some&nbsp;   people&nbsp;   want it&nbsp;   all&nbsp;&nbsp;   But&nbsp;   I&nbsp;&nbsp;   nothing at all&nbsp;   want<br>如此 充满了&nbsp;&nbsp; 肤浅的&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 有些 人&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 想要&nbsp;&nbsp;&nbsp;&nbsp; 一切 但&nbsp;&nbsp; 我 什么也不&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 想要<br>rú cǐ chōng mǎn le fū qiǎn de yǒu xiē rén xiǎng yào yí qiè dān wǒ shén me yě bù xiǎng yào</td>
+        <td>So full of&nbsp;   superficial&nbsp;   people&nbsp;   all&nbsp;   want it&nbsp;   But&nbsp;   nothing at all<br>如此的&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 肤浅&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 有人&nbsp;&nbsp;&nbsp; 都&nbsp;&nbsp; 想要&nbsp;&nbsp;&nbsp;&nbsp; 却&nbsp;&nbsp; 一无所有<br>rú cǐ de fū qiǎn yǒu rén dōu xiǎng yào què yī wú suǒ yǒu</td>
+        <td>So full of&nbsp;   superficial&nbsp;   Some&nbsp;   people&nbsp;   all&nbsp;   want it&nbsp;   But&nbsp;   nothing at all&nbsp;   want<br>如此的&nbsp;&nbsp;&nbsp;&nbsp; 肤浅&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 有些 人&nbsp;&nbsp;&nbsp;&nbsp; 都&nbsp; 想要&nbsp;&nbsp;&nbsp; 却&nbsp; 什么都不&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 要<br>rú cǐ de fū qiǎn yǒu xiē rén dōu xiǎng yào què shén me dōu bú yào</td>
     </tr>
     <tr style="height: 400%;">
         <th scope="row">scores</th>
@@ -256,9 +256,9 @@ Song translation requires both translation of lyrics and alignment of music note
     <tr style="height: 50%;">
         <th scope="row">lyrics text</th>
         <td>en:When the rain is blowing in your face And the whole world is on your case<br>zh:当雨吹打在你的脸上 全世界压在你行李箱</td>
-        <td>when   the rain   in   your   face   is blowing   the whole   world  is   on   your   case<br>当&nbsp;&nbsp;&nbsp;&nbsp; 雨水&nbsp;&nbsp;&nbsp;&nbsp; 在 你的 脸上 吹来时&nbsp;&nbsp;&nbsp;&nbsp; 整个&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 世界&nbsp; 都 在 你的 案子上<br>dāng yǔ shuǐ zài nǐ de liǎn shàng chuī lái shí zhěng gè shì jiè dōu zài nǐ de àn zi shàng</td>
-        <td>when   the rain   is blowing   your   face   the whole   world   is on   your   case<br>当&nbsp;&nbsp;&nbsp;&nbsp; 雨&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 打在&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 你&nbsp;&nbsp; 脸上 全&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 世界&nbsp; 都在&nbsp; 你&nbsp;&nbsp; 左右<br>dāng yǔ dǎ zài nǐ liǎn shàng quán shì jiè dōu zài nǐ zuǒ yòu</td>
-        <td>when   the rain   is blowing  your   face      the whole   world   is&nbsp;&nbsp;   on your case<br>当&nbsp;&nbsp; 雨&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 打在&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 你的 脸上 整个&nbsp;&nbsp;&nbsp;&nbsp; 世界&nbsp; 都在 你的 左右<br>dāng yǔ dǎ zài nǐ de liǎn shàng quán shì jiè dōu zài nǐ de zuǒ yòu</td>
+        <td>when&nbsp;   the rain&nbsp;   in&nbsp;   your&nbsp;   face&nbsp;   is blowing&nbsp;   the whole&nbsp;   world&nbsp;  is&nbsp;   on&nbsp;   your&nbsp;   case<br>当&nbsp;&nbsp;&nbsp;&nbsp; 雨水&nbsp;&nbsp;&nbsp;&nbsp; 在 你的 脸上 吹来时&nbsp;&nbsp;&nbsp;&nbsp; 整个&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 世界&nbsp; 都 在 你的 案子上<br>dāng yǔ shuǐ zài nǐ de liǎn shàng chuī lái shí zhěng gè shì jiè dōu zài nǐ de àn zi shàng</td>
+        <td>when&nbsp;   the rain&nbsp;   is blowing&nbsp;   your&nbsp;   face&nbsp;   the whole&nbsp;   world&nbsp;   is on&nbsp;   your&nbsp;   case<br>当&nbsp;&nbsp;&nbsp;&nbsp; 雨&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 打在&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 你&nbsp;&nbsp; 脸上 全&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 世界&nbsp; 都在&nbsp; 你&nbsp;&nbsp; 左右<br>dāng yǔ dǎ zài nǐ liǎn shàng quán shì jiè dōu zài nǐ zuǒ yòu</td>
+        <td>when&nbsp;   the rain&nbsp;   is blowing&nbsp;  your&nbsp;   face&nbsp;      the whole&nbsp;   world&nbsp;   is&nbsp;&nbsp;&nbsp;   on your case<br>当&nbsp;&nbsp; 雨&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 打在&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 你的 脸上 整个&nbsp;&nbsp;&nbsp;&nbsp; 世界&nbsp; 都在 你的 左右<br>dāng yǔ dǎ zài nǐ de liǎn shàng quán shì jiè dōu zài nǐ de zuǒ yòu</td>
     </tr>
     <tr style="height: 400%;">
         <th scope="row">scores</th>
